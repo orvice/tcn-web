@@ -1,6 +1,6 @@
 
 <div class="footer">
-    <p>&copy; 网址缩短 Power by <a href="https://orvice.org"> @orvice</a> 2014</p>
+    <p>&copy; 网址缩短 Power by <a href="https://github.com/orvice/tcn-web"> @orvice</a> 2014</p>
 </div>
 
 </div> <!-- /container -->
